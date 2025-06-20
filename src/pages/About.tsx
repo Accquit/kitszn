@@ -136,9 +136,9 @@ const About = () => {
               },
               {
                 name: "Darshil",
-                role: "Expert Randibaaz",
+                role: "lauda",
                 image: "",
-                bio: "Randi."
+                bio: "lauda"
               },
               {
                 name: "Tavam",
